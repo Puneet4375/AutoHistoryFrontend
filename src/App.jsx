@@ -9,17 +9,17 @@ import ServiceList from "./pages/admin/ServiceList/ServiceList";
 import ServiceAdd from "./pages/admin/ServiceAdd/ServiceAdd";
 import MechanicList from "./pages/mechanic-list/MechanicList";
 import BookMechanic from "./pages/BookMechanic/BookMechanic";
-import Bookings from "./pages/bookings/Bookings";
-import ViewVehicle from "./pages/viewVehicle/ViewVehicle";
-import UpdateVehicle from "./pages/updateVehicle/UpdateVehicle";
+import Bookings from "./pages/Bookings/Bookings";
+import ViewVehicle from "./pages/ViewVehicle/ViewVehicle";
+import UpdateVehicle from "./pages/UpdateVehicle/UpdateVehicle";
 
 import { Toaster } from "react-hot-toast";
-import AdminMechanicList from "./pages/adminMechanicList/AdminMechanicList";
-import ViewSingleMechanic from "./pages/viewSingleMechanic/ViewSingleMechanic";
-import AdminCustomerList from "./pages/adminCustomerList/AdminCustomerList";
-import ViewSingleCustomer from "./pages/viewSingleCustomer/viewSingleCustomer";
-import ViewSingleBooking from "./pages/viewSingleBooking/ViewSingleBooking";
-import AdminDashboard from "./pages/dashboard/AdminDashboard";
+import AdminMechanicList from "./pages/AdminMechanicList/AdminMechanicList";
+import ViewSingleMechanic from "./pages/ViewSingleMechanic/ViewSingleMechanic";
+import AdminCustomerList from "./pages/AdminCustomerList/AdminCustomerList";
+import ViewSingleCustomer from "./pages/ViewSingleCustomer/ViewSingleCustomer";
+import ViewSingleBooking from "./pages/ViewSingleBooking/ViewSingleBooking";
+import AdminDashboard from "./pages/Dashboard/AdminDashboard";
 import MechAI from "./pages/mechAI/MechAI";
 const App = () => {
   return (
