@@ -1,0 +1,1 @@
+export const dbUrl = 'https://auto-history-backend.vercel.app/'
