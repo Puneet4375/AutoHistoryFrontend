@@ -4,7 +4,7 @@ import Home from "./pages/Home/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AddCar from "./pages/addCar/AddCar";
 import Profile from "./pages/profile/Profile";
-import ServiceUpdate from "./pages/admin/serviceUpdate/ServiceUpdate";
+import ServiceUpdate from "./pages/admin/ServiceUpdate/ServiceUpdate";
 import ServiceList from "./pages/admin/ServiceList/ServiceList";
 import ServiceAdd from "./pages/admin/ServiceAdd/ServiceAdd";
 import MechanicList from "./pages/mechanic-list/MechanicList";
